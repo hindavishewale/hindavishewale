@@ -1,137 +1,148 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hindavi+Shewale!+👋;Computer+Engineering+Student;Web+Developer+%7C+AI+Enthusiast;Building+Smart+Tech+Solutions+🚀" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hindavishewale&label=Profile+Views&color=F75C7E&style=flat" />
-  <img src="https://img.shields.io/github/followers/hindavishewale?label=Followers&style=flat&color=F75C7E" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Hindavi+Shewale!+👋;AI+%7C+Web+Developer+%7C+Cloud+Enthusiast;Building+Smart+Tech+Solutions+🚀;Welcome+to+my+GitHub+Universe+🌌" />
+
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌌 About Me
 
 ```yaml
 Name: Hindavi Shewale
-Role: Computer Engineering Student (B.Tech - 3rd Year)
-Location: Aurangabad, India 🇮🇳
-Focus: Web Development | AI/ML | Cloud Computing
-Currently Learning: AI Agents, Google Cloud, FastAPI
+Role: Computer Engineering Student
+Focus: AI/ML | Web Development | Cloud Computing
+Current Mission: Building real-world impactful AI solutions
+Learning: AI Agents | Google Cloud | FastAPI
+Strengths: Problem Solving | UI Design | Data Analysis
 ```
 
-💡 Passionate about building intelligent, real-world solutions using AI, data, and modern web technologies.
-🚀 Strong interest in Machine Learning, Cloud, and Full-Stack Development
-☕ Fun fact: I turn coffee into code
+💡 I love turning **ideas into intelligent systems**
+🚀 Passionate about **AI + Full Stack Development**
+🌱 Always exploring **new technologies & innovations**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Universe
 
-### 💻 Programming
+<div align="center">
 
-`C` `C++` `Java` `Python` `JavaScript`
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,bootstrap,django,fastapi,mysql,git,github,aws" />
 
-### 🌐 Web Development
-
-`HTML` `CSS` `Bootstrap` `Django` `FastAPI`
-
-### 🗄️ Database & Tools
-
-`MySQL` `Power BI` `OOP` `Git & GitHub`
-
-### ☁️ Cloud & AI
-
-`AWS` `Machine Learning` `Data Analysis`
+</div>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🧠 Breast Cancer Diagnostic Intelligence System
+### 🧠 AI Breast Cancer Detection
 
-* AI-powered web app for predicting cancer risk with confidence levels
-* Built using Machine Learning + Web Interface
-* 🔗 https://huggingface.co/spaces/hindavi07/Breast_Cancer_Diagnostic_Intillegence_System
-
----
-
-### 🔊 Noise Pollution Monitoring System
-
-* Real-time monitoring using ESP8266 + IoT + Blynk + ThingSpeak
-* Cost-effective smart city solution
-* 🔗 https://github.com/hindavishewale/Noise_Pollution_Monitoring_Systeme
+✔ ML-based prediction system
+✔ Web integration for user interaction
+🔗 https://huggingface.co/spaces/hindavi07/Breast_Cancer_Diagnostic_Intillegence_System
 
 ---
 
-### 📊 Election Forecasting using Bayesian Statistics
+### 🔊 Smart Noise Monitoring (IoT)
 
-* Predicts winning probabilities using Bayesian inference
-* Interactive dashboards with Plotly & Streamlit
-* 🔗 https://huggingface.co/spaces/hindavi07/Election_forecasting_project_using_Bayesian_Distribution
+✔ ESP8266 + Sensors + Cloud Analytics
+✔ Real-time alerts & visualization
+🔗 https://github.com/hindavishewale/Noise_Pollution_Monitoring_Systeme
+
+---
+
+### 📊 Election Forecasting System
+
+✔ Bayesian probability model
+✔ Interactive dashboards
+🔗 https://huggingface.co/spaces/hindavi07/Election_forecasting_project_using_Bayesian_Distribution
+
+---
+
+## 🏆 Achievements & Hackathons
+
+🏅 Participant – Walmart Sponsored Sparkathon
+🏅 Active Contributor – AWS Cloud Club
+🏅 Participated – Avishkar Competition
+🏅 Built Multiple Real-world Projects
 
 ---
 
 ## 💼 Experience
 
-**Departmental Representative**
-AWS Cloud Club, Sanjivani College
+**Departmental Representative – AWS Cloud Club**
+✔ Organized cloud workshops
+✔ Promoted AWS learning
 
-* Conducted workshops & promoted cloud computing
-
-**Ladies Representative**
-ACES (Association of Computer Engineering Students)
-
-* Coordinated technical & student engagement activities
+**Ladies Representative – ACES**
+✔ Managed technical events
+✔ Student coordination
 
 ---
 
-## 🎓 Education
+## 🎨 Portfolio Highlights
 
-**B.Tech in Computer Engineering**
-Sanjivani College of Engineering, Kopargaon
-📅 2023 – Present
-
----
-
-## 📜 Certifications
-
-* Oracle Certified Foundations Associate (AI & Cloud)
-* NPTEL – Programming in Java
-* NPTEL – Joy of Computing using Python
-* NAT-Q5 Japanese Certification 🇯🇵
+✨ Built interactive web apps using Django & JS
+✨ Developed ML-based prediction systems
+✨ Created IoT-based smart monitoring solutions
+✨ Designed dashboards using Power BI
 
 ---
 
-## 🌍 Languages
+## 📊 GitHub Analytics
 
-* English – Full Professional
-* Marathi – Full Professional
-* Hindi – Full Professional
-* Japanese – Elementary (N4 Level Learning)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hindavishewale&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hindavishewale&theme=tokyonight&hide_border=true" height="160"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hindavishewale&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hindavishewale/hindavishewale/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 🎨 Theme Options
+
+### 🌙 Dark Neon (Current)
+
+* Color: Cyan + Neon Blue
+* Theme: `tokyonight`
+
+### 🌸 Pastel Theme (Optional)
+
+Change stats theme to:
+
+```
+theme=rose_pine
+```
 
 ---
 
 ## 📫 Connect With Me
 
 📧 [shewalehindavi@gmail.com](mailto:shewalehindavi@gmail.com)
-📱 +91 7841061593
 🔗 https://linkedin.com/in/hindavi
 💻 https://github.com/hindavishewale
 
 ---
 
-## 📊 GitHub Stats
+## 💫 Final Note
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hindavishewale&show_icons=true&theme=radical" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hindavishewale&theme=radical" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hindavishewale&layout=compact&theme=radical" height="160"/>
+✨ *“Code. Create. Innovate. Repeat.”* ✨
 
-</div>
+⭐ Star repositories if you like my work!
 
----
-
-<div align="center">
-  ⭐ “Building technology that solves real-world problems.”
 </div>
