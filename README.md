@@ -112,22 +112,6 @@ Strengths: Problem Solving | UI Design | Data Analysis
 
 ---
 
-## 🎨 Theme Options
-
-### 🌙 Dark Neon (Current)
-
-* Color: Cyan + Neon Blue
-* Theme: `tokyonight`
-
-### 🌸 Pastel Theme (Optional)
-
-Change stats theme to:
-
-```
-theme=rose_pine
-```
-
----
 
 ## 📫 Connect With Me
 
