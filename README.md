@@ -1,8 +1,7 @@
 
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I+am+Hindavi+Shewale+👋;AI+%7C+Web+Developer;Cloud+Enthusiast+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I+am+Hindavi+Shewale;AI+Developer;Web+Developer;Cloud+Enthusiast" />
 
 </div>
 
