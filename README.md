@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I+am+Hindavi+Shewale;AI+Developer;Web+Developer;Cloud+Enthusiast" />
+<img src="https://komarev.com/ghpvc/?username=hindavishewale&label=Profile+Views&color=F75C7E&style=flat" />
+<img src="https://img.shields.io/github/followers/hindavishewale?label=Followers&style=flat&color=00F7FF" />
 
 </div>
 
