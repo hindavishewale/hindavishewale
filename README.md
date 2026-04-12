@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=hindavishewale&label=Profile+Views&color=F75C7E&style=flat" />
-<img src="https://img.shields.io/github/followers/hindavishewale?label=Followers&style=flat&color=00F7FF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:F75C7E&height=200&section=header&text=Hindavi%20Shewale&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=AI+%7C+Web+Developer+%7C+Cloud+Enthusiast;Building+Real-World+Projects;Open+to+Internships+🚀" />
 
 </div>
-
 ---
 
 ## 🌌 About Me
